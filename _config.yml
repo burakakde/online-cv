@@ -21,11 +21,11 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: burakakde@gmail.com
-phone: 012 345 6789
+#phone: 012 345 6789
 website: burakakde.com #do not add http://
-linkedin: alandoe
+#linkedin: alandoe
 github: burakakde
-twitter: '@webjeda'
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
