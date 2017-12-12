@@ -13,7 +13,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Burak Akdemir
 tagline: B.Sc & M.Sc
-pic: vesikalik.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: vesikalik_100x100.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
