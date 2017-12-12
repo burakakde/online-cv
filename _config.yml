@@ -31,7 +31,7 @@ Data Mining (BA)
 Bio-Informatics (BA)
 Artificial Neural Networks (BB).
 
-I have also written my master's thesis, Autonomous Flight for a Quadrotor using Single Image Based Obstacle Avoidance, in the related field. The aim of my thesis was to design a system that prevents the drones from crashing into obstacles by estimating the depth from a single image. Fundamental concepts like SVM, CNN, etc... are used (more information available upon request).
+I have also written my masters thesis, Autonomous Flight for a Quadrotor using Single Image Based Obstacle Avoidance, in the related field. The aim of my thesis was to design a system that prevents the drones from crashing into obstacles by estimating the depth from a single image. Fundamental concepts like SVM, CNN, etc... are used (more information available upon request).
 
 The projects I have participated in are mainly written in C, C++ and Matlab. The tools I worked with include but not limited to Xilinx, Pspice, LabVIEW, etc...'
 
