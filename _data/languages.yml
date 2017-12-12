@@ -1,9 +1,15 @@
 - language:
   idiom: English
+  level: Professioal (Toefl 105/120)
+  
+- language:
+  idiom: Turkish
   level: Native
+
 - language:
-  idiom: French
-  level: Professional
+  idiom: German
+  level: Beginner
+  
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Dutch
+  level: Beginner
